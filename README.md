@@ -1,2 +1,2 @@
 # DevOps
-It is to test Jenkins pipeline
+It is for test Jenkins pipeline
